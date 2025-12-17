@@ -50,11 +50,7 @@
     <!-- Logo/Nombre -->
     <div class="p-6 border-b border-gray-200 dark:border-gray-700">
         <div class="flex items-center gap-3">
-            <img
-                src="/src/assets/logo-negocio.png"
-                alt="Logo"
-                class="w-10 h-10"
-            />
+            <img src="/logo-negocio.png" alt="Logo" class="w-10 h-10" />
             <h1 class="text-2xl font-bold text-gray-900 dark:text-white">
                 Mi Negocio
             </h1>

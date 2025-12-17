@@ -113,7 +113,7 @@
             class="flex items-center justify-center py-32"
         >
             <img
-                src="/src/assets/logo-negocio.png"
+                src="/logo-negocio.png"
                 alt="Logo"
                 class="w-48 h-48 opacity-20 dark:opacity-10"
             />
