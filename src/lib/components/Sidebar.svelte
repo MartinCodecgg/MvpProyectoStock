@@ -18,6 +18,7 @@
     const sections: Section[] = [
         { id: "caja", name: "Caja", icon: "🏪", enabled: true },
         { id: "stock", name: "Gestión de Stock", icon: "📦", enabled: true },
+        { id: "proveedores", name: "Proveedores", icon: "🤝", enabled: true },
         { id: "reposicion", name: "Reposición", icon: "🔄", enabled: true },
         { id: "analiticas", name: "Analíticas", icon: "📊", enabled: true },
         {
